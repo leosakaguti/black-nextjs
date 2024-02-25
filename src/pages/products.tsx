@@ -5,7 +5,7 @@ export default function Products() {
   return (
     <>
       <Head>
-        <title>Nossos Produtos</title>
+        <title>Produtos</title>
         <meta name="description" content="Conheça nossos produtos" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
